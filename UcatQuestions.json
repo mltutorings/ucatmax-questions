@@ -1,0 +1,1837 @@
+{
+    "sets": [
+        {
+            "id": "set-01-a1b2c3d4-1111-4aaa-bbbb-ccccddddeeee",
+            "layout": "horizontal",
+            "category": "Verbal Reasoning",
+            "subCategory": "VR Long Answer",
+            "stem": {
+                "lines": [
+                    {
+                        "line": "The Rosetta Stone is a granodiorite stele inscribed with a decree issued in Memphis, Egypt, in 196 BC on behalf of King Ptolemy V. The decree appears in three scripts: Ancient Egyptian hieroglyphics, Demotic script, and Ancient Greek. Because the three texts convey essentially the same message, the stone provided the key to deciphering Egyptian hieroglyphics, a writing system that had been unreadable for nearly fourteen centuries."
+                    },
+                    {
+                        "line": "\n"
+                    },
+                    {
+                        "line": "The stone was discovered in 1799 by French soldiers during Napoleon's campaign in Egypt. It was found built into a wall at Fort Julien near the town of Rashid, known to Europeans as Rosetta. Following the French defeat, the stone was surrendered to British forces under the terms of the Treaty of Alexandria in 1801 and has been housed in the British Museum since 1802, where it remains the most visited single object in the collection."
+                    },
+                    {
+                        "line": "\n"
+                    },
+                    {
+                        "line": "Decipherment proved a painstaking process. The British polymath Thomas Young made early progress by identifying that some hieroglyphic signs within oval frames, known as cartouches, represented royal names. However, it was the French scholar Jean-Fran\u00e7ois Champollion who achieved the decisive breakthrough in 1822. Champollion realised that hieroglyphics were not purely symbolic but combined logographic and alphabetic elements. His insight depended partly on his knowledge of Coptic, the last surviving form of the ancient Egyptian language, which allowed him to connect the sounds of Coptic words with their hieroglyphic equivalents."
+                    },
+                    {
+                        "line": "\n"
+                    },
+                    {
+                        "line": "The decipherment of hieroglyphics opened an entirely new field of study. Thousands of inscriptions across temples, tombs, and papyri became legible for the first time, transforming scholarly understanding of ancient Egyptian religion, governance, and daily life. Egypt has repeatedly requested the return of the Rosetta Stone, arguing that it was removed during a period of colonial occupation, though the British Museum has so far declined."
+                    }
+                ],
+                "images": []
+            },
+            "questions": [
+                {
+                    "id": "s01-q1-aaaa-bbbb-cccc-dddd-eeeeffffaaaa",
+                    "difficulty": "Easy",
+                    "tags": [
+                        "Direct Retrieval"
+                    ],
+                    "lines": [
+                        {
+                            "line": "According to the passage, the Rosetta Stone was important because it:"
+                        }
+                    ],
+                    "optionType": "single",
+                    "options": [
+                        {
+                            "id": 1,
+                            "option": "contained the only surviving example of Ancient Greek writing from the Ptolemaic period."
+                        },
+                        {
+                            "id": 2,
+                            "option": "allowed scholars to decipher Egyptian hieroglyphics by comparing them with a known script."
+                        },
+                        {
+                            "id": 3,
+                            "option": "proved that the Ancient Egyptians and Greeks shared a common language."
+                        },
+                        {
+                            "id": 4,
+                            "option": "was the first Egyptian artefact to be displayed in a European museum."
+                        }
+                    ],
+                    "correctOptions": {
+                        "ids": [
+                            2
+                        ]
+                    },
+                    "workedSolution": "<p><strong>Option B is correct</strong> because paragraph 1 states that the stone 'provided the key to deciphering Egyptian hieroglyphics' since 'the three texts convey essentially the same message', allowing comparison with the known Ancient Greek script.</p><p><strong>Option A is incorrect</strong> because the passage does not claim it was the only surviving example of Ancient Greek writing.</p><p><strong>Option C is incorrect</strong> because the passage describes three separate scripts conveying the same decree, not a shared language.</p><p><strong>Option D is incorrect</strong> because the passage makes no claim about it being the first Egyptian artefact in a European museum.</p>"
+                },
+                {
+                    "id": "s01-q2-aaaa-bbbb-cccc-dddd-eeeeffffbbbb",
+                    "difficulty": "Medium",
+                    "tags": [
+                        "Inference"
+                    ],
+                    "lines": [
+                        {
+                            "line": "It can be inferred from the passage that Champollion's knowledge of Coptic was valuable because:"
+                        }
+                    ],
+                    "optionType": "single",
+                    "options": [
+                        {
+                            "id": 1,
+                            "option": "Coptic was the language in which the Rosetta Stone's decree was originally composed."
+                        },
+                        {
+                            "id": 2,
+                            "option": "it enabled him to understand the phonetic values of hieroglyphic signs through a related language."
+                        },
+                        {
+                            "id": 3,
+                            "option": "Thomas Young had already translated the Coptic text on the Rosetta Stone."
+                        },
+                        {
+                            "id": 4,
+                            "option": "Coptic used the same script as Egyptian hieroglyphics."
+                        }
+                    ],
+                    "correctOptions": {
+                        "ids": [
+                            2
+                        ]
+                    },
+                    "workedSolution": "<p><strong>Option B is correct</strong> because paragraph 3 states that Coptic was 'the last surviving form of the ancient Egyptian language' and Champollion used it to 'connect the sounds of Coptic words with their hieroglyphic equivalents'. This implies he could infer phonetic values through the linguistic relationship.</p><p><strong>Option A is incorrect</strong> because the decree was issued in three scripts (hieroglyphic, Demotic, Greek), not Coptic.</p><p><strong>Option C is incorrect</strong> because the passage attributes Coptic knowledge to Champollion, not Young, and there is no Coptic text on the stone.</p><p><strong>Option D is incorrect</strong> because Coptic is described as a surviving form of the language, not a script identical to hieroglyphics.</p>"
+                },
+                {
+                    "id": "s01-q3-aaaa-bbbb-cccc-dddd-eeeeffffcccc",
+                    "difficulty": "Hard",
+                    "tags": [
+                        "Negation",
+                        "Direct Retrieval"
+                    ],
+                    "lines": [
+                        {
+                            "line": "Which of the following is NOT supported by information in the passage?"
+                        }
+                    ],
+                    "optionType": "single",
+                    "options": [
+                        {
+                            "id": 1,
+                            "option": "Thomas Young identified that cartouches contained royal names."
+                        },
+                        {
+                            "id": 2,
+                            "option": "The stone was discovered by British soldiers during a military campaign."
+                        },
+                        {
+                            "id": 3,
+                            "option": "Hieroglyphics had been unreadable for approximately fourteen centuries before decipherment."
+                        },
+                        {
+                            "id": 4,
+                            "option": "Champollion demonstrated that hieroglyphics combined logographic and alphabetic elements."
+                        }
+                    ],
+                    "correctOptions": {
+                        "ids": [
+                            2
+                        ]
+                    },
+                    "workedSolution": "<p><strong>Option B is correct (NOT supported)</strong> because paragraph 2 states the stone 'was discovered in 1799 by French soldiers during Napoleon's campaign in Egypt'. It was later surrendered to British forces, but the discovery itself was made by the French.</p><p><strong>Option A is supported</strong> in paragraph 3: Young 'identifying that some hieroglyphic signs within oval frames, known as cartouches, represented royal names'.</p><p><strong>Option C is supported</strong> in paragraph 1: 'a writing system that had been unreadable for nearly fourteen centuries'.</p><p><strong>Option D is supported</strong> in paragraph 3: Champollion 'realised that hieroglyphics were not purely symbolic but combined logographic and alphabetic elements'.</p>"
+                },
+                {
+                    "id": "s01-q4-aaaa-bbbb-cccc-dddd-eeeeffffdddd",
+                    "difficulty": "Max",
+                    "tags": [
+                        "Inference",
+                        "Partial Information"
+                    ],
+                    "lines": [
+                        {
+                            "line": "Egypt's request for the return of the Rosetta Stone is based on the argument that:"
+                        }
+                    ],
+                    "optionType": "single",
+                    "options": [
+                        {
+                            "id": 1,
+                            "option": "the British Museum has failed to preserve the stone in adequate condition."
+                        },
+                        {
+                            "id": 2,
+                            "option": "the stone was taken from Egypt under circumstances that lacked legitimate consent."
+                        },
+                        {
+                            "id": 3,
+                            "option": "French scholars contributed more to the decipherment and should house the stone."
+                        },
+                        {
+                            "id": 4,
+                            "option": "the stone is of greater religious significance to Egypt than historical significance to Britain."
+                        }
+                    ],
+                    "correctOptions": {
+                        "ids": [
+                            2
+                        ]
+                    },
+                    "workedSolution": "<p><strong>Option B is correct</strong> because the final paragraph states Egypt argues 'it was removed during a period of colonial occupation'. This implies the removal lacked legitimate Egyptian consent, as it occurred under foreign military occupation rather than voluntary agreement.</p><p><strong>Option A is incorrect</strong> because the passage makes no reference to the condition of the stone or preservation concerns.</p><p><strong>Option C is incorrect</strong> because Egypt's argument concerns ownership and colonial removal, not which nation contributed more to decipherment.</p><p><strong>Option D is incorrect</strong> because the passage does not mention religious significance in connection with Egypt's repatriation request.</p>"
+                }
+            ]
+        },
+        {
+            "id": "set-02-b2c3d4e5-2222-4bbb-cccc-ddddeeeeffff",
+            "layout": "horizontal",
+            "category": "Verbal Reasoning",
+            "subCategory": "VR Long Answer",
+            "stem": {
+                "lines": [
+                    {
+                        "line": "Sleep has long been recognised as essential for physical health, but research over the past three decades has revealed that it plays an equally critical role in memory and learning. During wakefulness, the hippocampus rapidly encodes new experiences into short-term memory traces. These traces are fragile and easily disrupted. It is during sleep, particularly during slow-wave sleep in the first half of the night, that the brain replays and transfers these memories to the neocortex for long-term storage, a process known as memory consolidation."
+                    },
+                    {
+                        "line": "\n"
+                    },
+                    {
+                        "line": "A landmark study published in 2000 demonstrated that participants who slept for eight hours after learning a complex motor task showed a twenty per cent improvement in performance the following day, while those who were kept awake for the same period showed no improvement whatsoever. Subsequent research has confirmed that even brief naps of sixty to ninety minutes, provided they include slow-wave sleep, can produce measurable consolidation benefits."
+                    },
+                    {
+                        "line": "\n"
+                    },
+                    {
+                        "line": "REM sleep, which predominates in the latter half of the night, appears to serve a different but complementary function. Studies suggest that REM sleep is particularly important for consolidating emotional memories and for integrating newly learned information with existing knowledge, a process that may underlie creative problem-solving. Participants deprived of REM sleep perform significantly worse on tasks requiring insight or flexible thinking compared with those allowed to complete full sleep cycles."
+                    },
+                    {
+                        "line": "\n"
+                    },
+                    {
+                        "line": "The implications for education are considerable. Adolescents, who require approximately nine hours of sleep per night, routinely obtain fewer than seven due to early school start times and evening screen use. Researchers have argued that chronic sleep deprivation in this age group impairs not only academic performance but also emotional regulation. Several school districts in the United States have responded by delaying start times, with early evidence suggesting improvements in both attendance and grades."
+                    }
+                ],
+                "images": []
+            },
+            "questions": [
+                {
+                    "id": "s02-q1-aaaa-bbbb-cccc-dddd-eeeeffffaaaa",
+                    "difficulty": "Medium",
+                    "tags": [
+                        "Direct Retrieval"
+                    ],
+                    "lines": [
+                        {
+                            "line": "According to the passage, memory consolidation during sleep primarily occurs:"
+                        }
+                    ],
+                    "optionType": "single",
+                    "options": [
+                        {
+                            "id": 1,
+                            "option": "during REM sleep in the latter half of the night."
+                        },
+                        {
+                            "id": 2,
+                            "option": "during slow-wave sleep in the first half of the night."
+                        },
+                        {
+                            "id": 3,
+                            "option": "equally across all stages of sleep throughout the night."
+                        },
+                        {
+                            "id": 4,
+                            "option": "only during naps of sixty to ninety minutes."
+                        }
+                    ],
+                    "correctOptions": {
+                        "ids": [
+                            2
+                        ]
+                    },
+                    "workedSolution": "<p><strong>Option B is correct</strong> because paragraph 1 states that 'during sleep, particularly during slow-wave sleep in the first half of the night, the brain replays and transfers these memories to the neocortex for long-term storage'.</p><p><strong>Option A is incorrect</strong> because REM sleep is described in paragraph 3 as serving a 'different but complementary function' \u2014 consolidating emotional memories and integrating knowledge, not the primary consolidation process described in paragraph 1.</p><p><strong>Option C is incorrect</strong> because the passage specifically attributes primary consolidation to slow-wave sleep, not all stages equally.</p><p><strong>Option D is incorrect</strong> because naps are described as capable of producing consolidation benefits, but primary consolidation is attributed to overnight slow-wave sleep.</p>"
+                },
+                {
+                    "id": "s02-q2-aaaa-bbbb-cccc-dddd-eeeeffffbbbb",
+                    "difficulty": "Easy",
+                    "tags": [
+                        "Numerical"
+                    ],
+                    "lines": [
+                        {
+                            "line": "According to the passage, the sleep deficit experienced by typical adolescents is approximately:"
+                        }
+                    ],
+                    "optionType": "single",
+                    "options": [
+                        {
+                            "id": 1,
+                            "option": "one hour per night."
+                        },
+                        {
+                            "id": 2,
+                            "option": "two hours per night."
+                        },
+                        {
+                            "id": 3,
+                            "option": "at least two hours per night."
+                        },
+                        {
+                            "id": 4,
+                            "option": "three hours per night."
+                        }
+                    ],
+                    "correctOptions": {
+                        "ids": [
+                            3
+                        ]
+                    },
+                    "workedSolution": "<p><strong>Option C is correct</strong> because paragraph 4 states adolescents 'require approximately nine hours of sleep per night' but 'routinely obtain fewer than seven'. The deficit is therefore at least two hours (nine minus fewer-than-seven equals more-than-two). 'At least two hours' captures this correctly.</p><p><strong>Option A is incorrect</strong> because a one-hour deficit would mean they get eight hours, but the passage says they get fewer than seven.</p><p><strong>Option B is incorrect</strong> because 'two hours' implies they get exactly seven, but the passage says 'fewer than seven', so the deficit exceeds two hours.</p><p><strong>Option D is incorrect</strong> because while some adolescents may have a three-hour deficit, the passage says 'fewer than seven' not 'six', so three hours cannot be confirmed as the typical figure.</p>"
+                },
+                {
+                    "id": "s02-q3-aaaa-bbbb-cccc-dddd-eeeeffffcccc",
+                    "difficulty": "Hard",
+                    "tags": [
+                        "Inference"
+                    ],
+                    "lines": [
+                        {
+                            "line": "The passage suggests that REM sleep may contribute to creative problem-solving because it:"
+                        }
+                    ],
+                    "optionType": "single",
+                    "options": [
+                        {
+                            "id": 1,
+                            "option": "replays motor tasks learned during the day to improve physical performance."
+                        },
+                        {
+                            "id": 2,
+                            "option": "connects new information with pre-existing knowledge in the brain."
+                        },
+                        {
+                            "id": 3,
+                            "option": "transfers short-term memories from the hippocampus to the neocortex."
+                        },
+                        {
+                            "id": 4,
+                            "option": "produces a twenty per cent improvement in cognitive task performance."
+                        }
+                    ],
+                    "correctOptions": {
+                        "ids": [
+                            2
+                        ]
+                    },
+                    "workedSolution": "<p><strong>Option B is correct</strong> because paragraph 3 states that REM sleep is important for 'integrating newly learned information with existing knowledge, a process that may underlie creative problem-solving'. Integration of new and existing knowledge would facilitate novel connections needed for creativity.</p><p><strong>Option A is incorrect</strong> because the motor task study in paragraph 2 relates to slow-wave sleep consolidation, not REM sleep.</p><p><strong>Option C is incorrect</strong> because the transfer from hippocampus to neocortex is described in paragraph 1 as occurring during slow-wave sleep, not REM sleep.</p><p><strong>Option D is incorrect</strong> because the twenty per cent improvement is from the motor task study in paragraph 2, which measured overnight sleep generally, not REM sleep specifically.</p>"
+                },
+                {
+                    "id": "s02-q4-aaaa-bbbb-cccc-dddd-eeeeffffdddd",
+                    "difficulty": "Max",
+                    "tags": [
+                        "Strengthen / Weaken"
+                    ],
+                    "lines": [
+                        {
+                            "line": "Which of the following, if true, would most strengthen the argument for delaying school start times?"
+                        }
+                    ],
+                    "optionType": "single",
+                    "options": [
+                        {
+                            "id": 1,
+                            "option": "Adolescents who sleep nine hours per night report higher levels of boredom during lessons."
+                        },
+                        {
+                            "id": 2,
+                            "option": "Schools that delayed start times saw no change in the total hours students spent sleeping."
+                        },
+                        {
+                            "id": 3,
+                            "option": "Later start times were associated with reduced rates of adolescent depression and anxiety."
+                        },
+                        {
+                            "id": 4,
+                            "option": "Teachers in schools with delayed start times reported that lessons were more difficult to plan."
+                        }
+                    ],
+                    "correctOptions": {
+                        "ids": [
+                            3
+                        ]
+                    },
+                    "workedSolution": "<p><strong>Option C is correct</strong> because the passage argues that chronic sleep deprivation impairs 'not only academic performance but also emotional regulation'. Evidence that later start times reduced depression and anxiety would directly strengthen the emotional regulation component of the argument, providing additional benefits beyond grades and attendance.</p><p><strong>Option A would weaken</strong> the argument by suggesting more sleep leads to disengagement.</p><p><strong>Option B would weaken</strong> the argument by suggesting delayed start times do not actually increase sleep duration, undermining the rationale.</p><p><strong>Option D would weaken</strong> the argument by introducing a practical cost to delayed start times.</p>"
+                }
+            ]
+        },
+        {
+            "id": "set-03-c3d4e5f6-3333-4ccc-dddd-eeeeffff1111",
+            "layout": "horizontal",
+            "category": "Verbal Reasoning",
+            "subCategory": "VR Long Answer",
+            "stem": {
+                "lines": [
+                    {
+                        "line": "Microplastics, defined as plastic fragments smaller than five millimetres, have been detected in virtually every environment on Earth, from Arctic sea ice to the deepest ocean trenches. They originate from two main sources: the fragmentation of larger plastic items such as bottles and packaging, and the direct release of manufactured microparticles found in products including synthetic textiles, cosmetics, and industrial abrasives."
+                    },
+                    {
+                        "line": "\n"
+                    },
+                    {
+                        "line": "Research published in 2019 estimated that humans may ingest up to five grams of microplastic per week, roughly equivalent to the weight of a credit card, through contaminated food, water, and air. The health implications of this exposure remain uncertain. Laboratory studies on animals have shown that high concentrations of microplastics can cause inflammation, disrupt hormone signalling, and damage intestinal tissue. However, the concentrations used in these studies often far exceed those found in typical human diets, making it difficult to draw firm conclusions about real-world risk."
+                    },
+                    {
+                        "line": "\n"
+                    },
+                    {
+                        "line": "The environmental impact is better documented. Microplastics absorb and concentrate toxic pollutants from surrounding water, including pesticides and heavy metals, potentially magnifying their effect when ingested by marine organisms. Filter-feeding species such as mussels and oysters are particularly vulnerable, as they process large volumes of water and accumulate significant quantities of particles. This contamination can then pass up the food chain to larger predators, including commercially important fish species."
+                    },
+                    {
+                        "line": "\n"
+                    },
+                    {
+                        "line": "Efforts to reduce microplastic pollution have focused on banning microbeads in cosmetics, improving wastewater filtration, and developing biodegradable alternatives to conventional plastics. While over sixty countries have now enacted some form of microplastic legislation, critics argue that these measures address only a small fraction of the problem. The vast majority of microplastic pollution continues to originate from the degradation of existing plastic waste, a legacy that will persist in the environment for centuries regardless of future policy changes."
+                    }
+                ],
+                "images": []
+            },
+            "questions": [
+                {
+                    "id": "s03-q1-aaaa-bbbb-cccc-dddd-eeeeffffaaaa",
+                    "difficulty": "Hard",
+                    "tags": [
+                        "Inference",
+                        "Partial Information"
+                    ],
+                    "lines": [
+                        {
+                            "line": "The passage suggests that the health risks of microplastic ingestion for humans are:"
+                        }
+                    ],
+                    "optionType": "single",
+                    "options": [
+                        {
+                            "id": 1,
+                            "option": "well established and comparable to those observed in laboratory animals."
+                        },
+                        {
+                            "id": 2,
+                            "option": "plausible but not yet confirmed at the levels of exposure typically experienced."
+                        },
+                        {
+                            "id": 3,
+                            "option": "negligible because the quantities ingested are too small to cause any harm."
+                        },
+                        {
+                            "id": 4,
+                            "option": "impossible to study because microplastics cannot be detected in human tissue."
+                        }
+                    ],
+                    "correctOptions": {
+                        "ids": [
+                            2
+                        ]
+                    },
+                    "workedSolution": "<p><strong>Option B is correct</strong> because paragraph 2 describes animal studies showing harmful effects at 'high concentrations' but notes that these 'often far exceed those found in typical human diets', making it 'difficult to draw firm conclusions about real-world risk'. This indicates the risks are plausible (shown in labs) but unconfirmed at real-world levels.</p><p><strong>Option A is incorrect</strong> because the passage explicitly states that the lab concentrations exceeded typical human exposure, so direct comparison is not supported.</p><p><strong>Option C is incorrect</strong> because the passage says the implications 'remain uncertain', not that they are negligible.</p><p><strong>Option D is incorrect</strong> because the passage discusses ingestion quantities (five grams per week), implying detection is possible; the difficulty lies in assessing effects, not detection.</p>"
+                },
+                {
+                    "id": "s03-q2-aaaa-bbbb-cccc-dddd-eeeeffffbbbb",
+                    "difficulty": "Easy",
+                    "tags": [
+                        "Direct Retrieval"
+                    ],
+                    "lines": [
+                        {
+                            "line": "According to the passage, filter-feeding species such as mussels are particularly vulnerable to microplastic contamination because they:"
+                        }
+                    ],
+                    "optionType": "single",
+                    "options": [
+                        {
+                            "id": 1,
+                            "option": "live in the deepest ocean trenches where microplastic concentrations are highest."
+                        },
+                        {
+                            "id": 2,
+                            "option": "consume large quantities of conventional plastic packaging."
+                        },
+                        {
+                            "id": 3,
+                            "option": "process large volumes of water and accumulate significant quantities of particles."
+                        },
+                        {
+                            "id": 4,
+                            "option": "are at the top of the marine food chain and absorb pollutants from prey."
+                        }
+                    ],
+                    "correctOptions": {
+                        "ids": [
+                            3
+                        ]
+                    },
+                    "workedSolution": "<p><strong>Option C is correct</strong> because paragraph 3 states that filter-feeding species 'are particularly vulnerable, as they process large volumes of water and accumulate significant quantities of particles'.</p><p><strong>Option A is incorrect</strong> because deep ocean trenches are mentioned in paragraph 1 as one location where microplastics are found, but are not linked to filter feeders specifically.</p><p><strong>Option B is incorrect</strong> because filter feeders ingest microplastics from water, not larger plastic items like packaging.</p><p><strong>Option D is incorrect</strong> because mussels and oysters are near the bottom of the food chain, not the top. The passage states contamination passes 'up the food chain' from them to larger predators.</p>"
+                },
+                {
+                    "id": "s03-q3-aaaa-bbbb-cccc-dddd-eeeeffffcccc",
+                    "difficulty": "Max",
+                    "tags": [
+                        "Inference"
+                    ],
+                    "lines": [
+                        {
+                            "line": "The critics mentioned in the final paragraph would most likely argue that:"
+                        }
+                    ],
+                    "optionType": "single",
+                    "options": [
+                        {
+                            "id": 1,
+                            "option": "banning microbeads in cosmetics has been counterproductive and should be reversed."
+                        },
+                        {
+                            "id": 2,
+                            "option": "current legislation focuses on new sources while the main problem is historical plastic already in the environment."
+                        },
+                        {
+                            "id": 3,
+                            "option": "biodegradable plastics are more harmful to the environment than conventional plastics."
+                        },
+                        {
+                            "id": 4,
+                            "option": "wastewater filtration systems are too expensive for developing countries to implement."
+                        }
+                    ],
+                    "correctOptions": {
+                        "ids": [
+                            2
+                        ]
+                    },
+                    "workedSolution": "<p><strong>Option B is correct</strong> because the final paragraph states that current measures 'address only a small fraction of the problem' and that 'the vast majority of microplastic pollution continues to originate from the degradation of existing plastic waste'. The critics therefore argue the legislation targets new inputs while the dominant source is legacy waste already present.</p><p><strong>Option A is incorrect</strong> because the critics are not described as opposing the bans, only as considering them insufficient.</p><p><strong>Option C is incorrect</strong> because the passage mentions biodegradable alternatives as a positive development and the critics do not challenge this.</p><p><strong>Option D is incorrect</strong> because cost and developing countries are not mentioned in the passage.</p>"
+                },
+                {
+                    "id": "s03-q4-aaaa-bbbb-cccc-dddd-eeeeffffdddd",
+                    "difficulty": "Medium",
+                    "tags": [
+                        "Numerical",
+                        "Direct Retrieval"
+                    ],
+                    "lines": [
+                        {
+                            "line": "Based on the passage, the estimated weekly microplastic ingestion for humans is approximately:"
+                        }
+                    ],
+                    "optionType": "single",
+                    "options": [
+                        {
+                            "id": 1,
+                            "option": "five milligrams, equivalent to the weight of a grain of rice."
+                        },
+                        {
+                            "id": 2,
+                            "option": "five grams, equivalent to the weight of a credit card."
+                        },
+                        {
+                            "id": 3,
+                            "option": "fifty grams, equivalent to the weight of a small bar of soap."
+                        },
+                        {
+                            "id": 4,
+                            "option": "five hundred milligrams, equivalent to the weight of a tablet of aspirin."
+                        }
+                    ],
+                    "correctOptions": {
+                        "ids": [
+                            2
+                        ]
+                    },
+                    "workedSolution": "<p><strong>Option B is correct</strong> because paragraph 2 states 'humans may ingest up to five grams of microplastic per week, roughly equivalent to the weight of a credit card'.</p><p><strong>Options A, C, and D are incorrect</strong> because they present different quantities. The passage explicitly states five grams (not milligrams or fifty grams) and compares it to a credit card (not a grain of rice, soap, or aspirin tablet). These distractors test whether students confuse grams with milligrams or misremember the comparison.</p>"
+                }
+            ]
+        },
+        {
+            "id": "set-04-d4e5f6a7-4444-4ddd-eeee-ffff11112222",
+            "layout": "horizontal",
+            "category": "Verbal Reasoning",
+            "subCategory": "VR Long Answer",
+            "stem": {
+                "lines": [
+                    {
+                        "line": "The Silk Road was not a single route but a network of overland and maritime trade corridors connecting China with the Mediterranean from approximately the second century BC to the fifteenth century AD. Named by the German geographer Ferdinand von Richthofen in 1877, the routes carried not only silk but also spices, precious metals, glassware, and horses. Perhaps more significantly, they facilitated the transmission of religious ideas, scientific knowledge, and artistic techniques across vast distances."
+                    },
+                    {
+                        "line": "\n"
+                    },
+                    {
+                        "line": "At its peak during the Tang Dynasty in the seventh and eighth centuries, the Silk Road supported a cosmopolitan culture in which Buddhist monks, Muslim merchants, Nestorian Christians, and Zoroastrian priests coexisted in trading cities such as Samarkand and Dunhuang. The Chinese capital Chang'an, with a population exceeding one million, hosted communities from across Central Asia, Persia, and the Eastern Roman Empire. Archaeological evidence, including tomb figurines depicting foreign merchants and musicians, confirms the diversity of these urban populations."
+                    },
+                    {
+                        "line": "\n"
+                    },
+                    {
+                        "line": "The overland routes declined sharply after the fourteenth century. The collapse of the Mongol Empire, which had guaranteed safe passage for merchants across Central Asia, left the routes vulnerable to banditry and political fragmentation. The Black Death, which spread along trade networks in the 1340s, further disrupted commerce. Simultaneously, improvements in shipbuilding and navigation made maritime routes cheaper and faster, shifting the centre of global trade from the Central Asian steppe to the sea lanes of the Indian Ocean."
+                    },
+                    {
+                        "line": "\n"
+                    },
+                    {
+                        "line": "In 2013, China launched the Belt and Road Initiative, a massive infrastructure programme explicitly evoking the historical Silk Road. The initiative aims to build railways, ports, and pipelines linking China with over one hundred and forty countries. Supporters describe it as a vehicle for shared economic development, while critics argue it extends Chinese strategic influence through debt financing in developing nations."
+                    }
+                ],
+                "images": []
+            },
+            "questions": [
+                {
+                    "id": "s04-q1-aaaa-bbbb-cccc-dddd-eeeeffffaaaa",
+                    "difficulty": "Medium",
+                    "tags": [
+                        "Direct Retrieval"
+                    ],
+                    "lines": [
+                        {
+                            "line": "According to the passage, the term 'Silk Road' was:"
+                        }
+                    ],
+                    "optionType": "single",
+                    "options": [
+                        {
+                            "id": 1,
+                            "option": "used by Chinese merchants during the Tang Dynasty to describe their trade network."
+                        },
+                        {
+                            "id": 2,
+                            "option": "coined by a German geographer in the nineteenth century."
+                        },
+                        {
+                            "id": 3,
+                            "option": "first recorded in archaeological evidence from Samarkand."
+                        },
+                        {
+                            "id": 4,
+                            "option": "introduced by Marco Polo in his account of travels through Central Asia."
+                        }
+                    ],
+                    "correctOptions": {
+                        "ids": [
+                            2
+                        ]
+                    },
+                    "workedSolution": "<p><strong>Option B is correct</strong> because paragraph 1 states the routes were 'Named by the German geographer Ferdinand von Richthofen in 1877'.</p><p><strong>Option A is incorrect</strong> because the name was applied retrospectively, not by Chinese merchants during the Tang Dynasty.</p><p><strong>Option C is incorrect</strong> because there is no reference to the term being found in archaeological evidence from Samarkand.</p><p><strong>Option D is incorrect</strong> because Marco Polo is not mentioned anywhere in the passage.</p>"
+                },
+                {
+                    "id": "s04-q2-aaaa-bbbb-cccc-dddd-eeeeffffbbbb",
+                    "difficulty": "Hard",
+                    "tags": [
+                        "Inference"
+                    ],
+                    "lines": [
+                        {
+                            "line": "The passage implies that the Mongol Empire was important to Silk Road trade primarily because it:"
+                        }
+                    ],
+                    "optionType": "single",
+                    "options": [
+                        {
+                            "id": 1,
+                            "option": "constructed the physical roads and bridges that traders used."
+                        },
+                        {
+                            "id": 2,
+                            "option": "provided security that enabled merchants to travel safely across Central Asia."
+                        },
+                        {
+                            "id": 3,
+                            "option": "forced conquered peoples to trade exclusively with Chinese merchants."
+                        },
+                        {
+                            "id": 4,
+                            "option": "introduced maritime technology that complemented overland routes."
+                        }
+                    ],
+                    "correctOptions": {
+                        "ids": [
+                            2
+                        ]
+                    },
+                    "workedSolution": "<p><strong>Option B is correct</strong> because paragraph 3 states that 'the collapse of the Mongol Empire, which had guaranteed safe passage for merchants across Central Asia, left the routes vulnerable to banditry and political fragmentation'. The implication is that the Mongol Empire's primary contribution was providing the security necessary for safe trade.</p><p><strong>Option A is incorrect</strong> because the passage does not mention the Mongols constructing physical infrastructure.</p><p><strong>Option C is incorrect</strong> because there is no reference to forced trading arrangements with China.</p><p><strong>Option D is incorrect</strong> because maritime technology is attributed to general improvements in shipbuilding, not to the Mongol Empire.</p>"
+                },
+                {
+                    "id": "s04-q3-aaaa-bbbb-cccc-dddd-eeeeffffcccc",
+                    "difficulty": "Easy",
+                    "tags": [
+                        "Numerical"
+                    ],
+                    "lines": [
+                        {
+                            "line": "Based on the passage, the population of Chang'an during the Tang Dynasty:"
+                        }
+                    ],
+                    "optionType": "single",
+                    "options": [
+                        {
+                            "id": 1,
+                            "option": "was approximately one hundred thousand."
+                        },
+                        {
+                            "id": 2,
+                            "option": "was more than one million."
+                        },
+                        {
+                            "id": 3,
+                            "option": "was roughly equal to that of Samarkand."
+                        },
+                        {
+                            "id": 4,
+                            "option": "cannot be determined from the information given."
+                        }
+                    ],
+                    "correctOptions": {
+                        "ids": [
+                            2
+                        ]
+                    },
+                    "workedSolution": "<p><strong>Option B is correct</strong> because paragraph 2 states Chang'an had 'a population exceeding one million'.</p><p><strong>Option A is incorrect</strong> because the figure given is over one million, not one hundred thousand.</p><p><strong>Option C is incorrect</strong> because the passage gives no population figure for Samarkand, so a comparison cannot be made.</p><p><strong>Option D is incorrect</strong> because the population is explicitly stated in the passage.</p>"
+                },
+                {
+                    "id": "s04-q4-aaaa-bbbb-cccc-dddd-eeeeffffdddd",
+                    "difficulty": "Max",
+                    "tags": [
+                        "Author's Purpose / Tone"
+                    ],
+                    "lines": [
+                        {
+                            "line": "The writer's primary purpose in the final paragraph is to:"
+                        }
+                    ],
+                    "optionType": "single",
+                    "options": [
+                        {
+                            "id": 1,
+                            "option": "argue that China's Belt and Road Initiative will recreate the historical Silk Road."
+                        },
+                        {
+                            "id": 2,
+                            "option": "warn that Chinese infrastructure investment will destabilise developing nations."
+                        },
+                        {
+                            "id": 3,
+                            "option": "present a modern initiative that invokes the Silk Road legacy while noting differing perspectives on its aims."
+                        },
+                        {
+                            "id": 4,
+                            "option": "prove that maritime trade remains more economically viable than overland routes."
+                        }
+                    ],
+                    "correctOptions": {
+                        "ids": [
+                            3
+                        ]
+                    },
+                    "workedSolution": "<p><strong>Option C is correct</strong> because the final paragraph introduces the Belt and Road Initiative as 'explicitly evoking the historical Silk Road' and then presents two perspectives: supporters who describe it as 'shared economic development' and critics who argue it 'extends Chinese strategic influence'. The writer presents both views without endorsing either, indicating a balanced presentation rather than advocacy.</p><p><strong>Option A is incorrect</strong> because the writer states the initiative 'evokes' the historical Silk Road, not that it will recreate it.</p><p><strong>Option B is incorrect</strong> because the writer reports the critics' view without adopting it as their own purpose.</p><p><strong>Option D is incorrect</strong> because the final paragraph focuses on the Belt and Road Initiative, not a comparison of trade route viability.</p>"
+                }
+            ]
+        },
+        {
+            "id": "set-05-e5f6a7b8-5555-4eee-ffff-111122223333",
+            "layout": "horizontal",
+            "category": "Verbal Reasoning",
+            "subCategory": "VR Long Answer",
+            "stem": {
+                "lines": [
+                    {
+                        "line": "The concept of herd immunity describes the indirect protection from an infectious disease that occurs when a sufficiently large proportion of a population becomes immune, either through prior infection or vaccination. When the immune fraction exceeds a critical threshold, the pathogen can no longer sustain chains of transmission and its spread is effectively halted. The exact threshold varies by disease: for measles, which is highly contagious, approximately ninety-five per cent of the population must be immune, whereas for polio the figure is closer to eighty per cent."
+                    },
+                    {
+                        "line": "\n"
+                    },
+                    {
+                        "line": "Herd immunity is particularly important for individuals who cannot be vaccinated, including newborn infants, people with compromised immune systems, and those with certain allergies to vaccine components. These individuals rely entirely on the immunity of those around them for protection. When vaccination rates fall below the herd immunity threshold, previously controlled diseases can re-emerge. A sharp decline in measles vaccination in parts of Europe after 2010, driven largely by parental concerns about vaccine safety, led to a series of outbreaks affecting thousands of children, some fatally."
+                    },
+                    {
+                        "line": "\n"
+                    },
+                    {
+                        "line": "The safety concerns were largely traceable to a 1998 study published in *The Lancet* by Andrew Wakefield, which claimed a link between the measles, mumps, and rubella vaccine and autism. The study was subsequently found to be fraudulent: Wakefield had manipulated patient data and had undisclosed financial conflicts of interest. *The Lancet* retracted the paper in 2010, and Wakefield was struck off the medical register. Nonetheless, the damage to public confidence proved difficult to reverse, and vaccine hesitancy remains a significant public health challenge."
+                    },
+                    {
+                        "line": "\n"
+                    },
+                    {
+                        "line": "Public health authorities have responded with campaigns emphasising both the individual and collective benefits of vaccination, while several countries have introduced mandatory vaccination requirements for school enrolment. Research into vaccine communication suggests that presenting factual corrections alone is often insufficient to change the minds of hesitant parents, and that narratives emphasising the consequences of preventable disease may be more persuasive."
+                    }
+                ],
+                "images": []
+            },
+            "questions": [
+                {
+                    "id": "s05-q1-aaaa-bbbb-cccc-dddd-eeeeffffaaaa",
+                    "difficulty": "Easy",
+                    "tags": [
+                        "Direct Retrieval",
+                        "Numerical"
+                    ],
+                    "lines": [
+                        {
+                            "line": "According to the passage, the herd immunity threshold for measles is approximately:"
+                        }
+                    ],
+                    "optionType": "single",
+                    "options": [
+                        {
+                            "id": 1,
+                            "option": "eighty per cent."
+                        },
+                        {
+                            "id": 2,
+                            "option": "eighty-five per cent."
+                        },
+                        {
+                            "id": 3,
+                            "option": "ninety per cent."
+                        },
+                        {
+                            "id": 4,
+                            "option": "ninety-five per cent."
+                        }
+                    ],
+                    "correctOptions": {
+                        "ids": [
+                            4
+                        ]
+                    },
+                    "workedSolution": "<p><strong>Option D is correct</strong> because paragraph 1 states 'for measles, which is highly contagious, approximately ninety-five per cent of the population must be immune'.</p><p><strong>Option A is incorrect</strong> because eighty per cent is the threshold given for polio, not measles. This is a common distractor that tests whether students confuse the two diseases.</p><p><strong>Options B and C are incorrect</strong> because neither eighty-five nor ninety per cent is mentioned in the passage as the threshold for any disease.</p>"
+                },
+                {
+                    "id": "s05-q2-aaaa-bbbb-cccc-dddd-eeeeffffbbbb",
+                    "difficulty": "Hard",
+                    "tags": [
+                        "Negation",
+                        "Direct Retrieval"
+                    ],
+                    "lines": [
+                        {
+                            "line": "Which of the following is NOT identified in the passage as a consequence of Wakefield's 1998 study?"
+                        }
+                    ],
+                    "optionType": "single",
+                    "options": [
+                        {
+                            "id": 1,
+                            "option": "A decline in measles vaccination rates in parts of Europe."
+                        },
+                        {
+                            "id": 2,
+                            "option": "The introduction of mandatory vaccination laws in several countries."
+                        },
+                        {
+                            "id": 3,
+                            "option": "The retraction of the study by the journal that published it."
+                        },
+                        {
+                            "id": 4,
+                            "option": "The development of a new, safer formulation of the MMR vaccine."
+                        }
+                    ],
+                    "correctOptions": {
+                        "ids": [
+                            4
+                        ]
+                    },
+                    "workedSolution": "<p><strong>Option D is correct (NOT identified)</strong> because the passage makes no reference to a new vaccine formulation being developed as a result of Wakefield's study. The passage states the original study was fraudulent and the claimed link was false, so there was no need for a reformulated vaccine.</p><p><strong>Option A is identified</strong> in paragraph 2: 'A sharp decline in measles vaccination in parts of Europe after 2010, driven largely by parental concerns about vaccine safety'.</p><p><strong>Option B is identified</strong> in paragraph 4: 'several countries have introduced mandatory vaccination requirements for school enrolment'.</p><p><strong>Option C is identified</strong> in paragraph 3: '*The Lancet* retracted the paper in 2010'.</p>"
+                },
+                {
+                    "id": "s05-q3-aaaa-bbbb-cccc-dddd-eeeeffffcccc",
+                    "difficulty": "Max",
+                    "tags": [
+                        "Inference",
+                        "Partial Information"
+                    ],
+                    "lines": [
+                        {
+                            "line": "The passage suggests that correcting misinformation about vaccines is difficult because:"
+                        }
+                    ],
+                    "optionType": "single",
+                    "options": [
+                        {
+                            "id": 1,
+                            "option": "parents do not have access to accurate scientific information about vaccines."
+                        },
+                        {
+                            "id": 2,
+                            "option": "factual corrections alone are often not enough to overcome emotional or narrative-driven beliefs."
+                        },
+                        {
+                            "id": 3,
+                            "option": "the medical profession has lost all credibility due to Wakefield's fraud."
+                        },
+                        {
+                            "id": 4,
+                            "option": "vaccine manufacturers refuse to disclose the ingredients used in their products."
+                        }
+                    ],
+                    "correctOptions": {
+                        "ids": [
+                            2
+                        ]
+                    },
+                    "workedSolution": "<p><strong>Option B is correct</strong> because paragraph 4 states that 'presenting factual corrections alone is often insufficient to change the minds of hesitant parents' and that 'narratives emphasising the consequences of preventable disease may be more persuasive'. This implies that hesitancy is driven by something other than a simple lack of facts \u2014 likely emotional or narrative factors \u2014 making correction through facts alone ineffective.</p><p><strong>Option A is incorrect</strong> because the passage does not suggest access to information is the problem; it suggests the format and framing of the information matters.</p><p><strong>Option C is incorrect</strong> because while public confidence was damaged, the passage does not state the medical profession lost 'all credibility'.</p><p><strong>Option D is incorrect</strong> because ingredient disclosure is not mentioned anywhere in the passage.</p>"
+                },
+                {
+                    "id": "s05-q4-aaaa-bbbb-cccc-dddd-eeeeffffdddd",
+                    "difficulty": "Medium",
+                    "tags": [
+                        "Inference"
+                    ],
+                    "lines": [
+                        {
+                            "line": "Herd immunity is described as 'indirect protection' because:"
+                        }
+                    ],
+                    "optionType": "single",
+                    "options": [
+                        {
+                            "id": 1,
+                            "option": "it protects people who have already been vaccinated from getting a stronger form of the disease."
+                        },
+                        {
+                            "id": 2,
+                            "option": "it relies on the immunity of surrounding individuals to shield those who are not themselves immune."
+                        },
+                        {
+                            "id": 3,
+                            "option": "it works by strengthening the immune systems of unvaccinated individuals through environmental exposure."
+                        },
+                        {
+                            "id": 4,
+                            "option": "it requires only a small percentage of the population to be immune for protection to be effective."
+                        }
+                    ],
+                    "correctOptions": {
+                        "ids": [
+                            2
+                        ]
+                    },
+                    "workedSolution": "<p><strong>Option B is correct</strong> because paragraph 1 defines herd immunity as 'indirect protection' and paragraph 2 explains that unvaccinated individuals 'rely entirely on the immunity of those around them for protection'. Protection is indirect because it comes from others' immunity, not from the individual's own immune response.</p><p><strong>Option A is incorrect</strong> because herd immunity protects the unvaccinated, not the already vaccinated. Vaccinated individuals have direct protection.</p><p><strong>Option C is incorrect</strong> because herd immunity works by limiting transmission, not by somehow strengthening others' immune systems.</p><p><strong>Option D is incorrect</strong> because herd immunity requires a large percentage (80-95%) of the population to be immune, not a small percentage.</p>"
+                }
+            ]
+        },
+        {
+            "id": "set-06-f6a7b8c9-6666-4fff-1111-222233334444",
+            "layout": "horizontal",
+            "category": "Verbal Reasoning",
+            "subCategory": "VR Long Answer",
+            "stem": {
+                "lines": [
+                    {
+                        "line": "Johannes Gutenberg's development of movable type printing in Mainz around 1440 is often described as one of the most transformative inventions in human history. Before Gutenberg, European books were produced either by hand-copying, a process that could take a scribe months to complete a single volume, or by woodblock printing, which required a new carved block for every page. Gutenberg's innovation was to cast individual metal letters that could be rearranged and reused, dramatically reducing both the time and cost of producing multiple copies of a text."
+                    },
+                    {
+                        "line": "\n"
+                    },
+                    {
+                        "line": "The first major work printed using the new technology was the Gutenberg Bible, completed around 1455. Approximately one hundred and eighty copies were produced, of which forty-nine are known to survive. The quality of the printing was remarkably high, and many copies were subsequently decorated by hand with coloured illustrations, suggesting that early printed books were intended to resemble, rather than replace, manuscript traditions."
+                    },
+                    {
+                        "line": "\n"
+                    },
+                    {
+                        "line": "The social consequences of affordable printing were profound. Within fifty years of Gutenberg's invention, an estimated twenty million volumes had been printed across Europe. The wider availability of texts accelerated the spread of literacy, enabled the rapid dissemination of scientific and philosophical ideas, and contributed directly to the Protestant Reformation, which depended on the mass distribution of pamphlets and translated Bibles. Martin Luther himself described printing as 'God's highest and extremest act of grace'."
+                    },
+                    {
+                        "line": "\n"
+                    },
+                    {
+                        "line": "It is worth noting, however, that movable type printing had been developed in China by Bi Sheng as early as 1040, some four centuries before Gutenberg. Bi Sheng used ceramic characters rather than metal, and the technology did not achieve widespread adoption, partly because the Chinese writing system requires thousands of distinct characters, making movable type far less practical than it proved for alphabetic languages with fewer than thirty letters."
+                    }
+                ],
+                "images": []
+            },
+            "questions": [
+                {
+                    "id": "s06-q1-aaaa-bbbb-cccc-dddd-eeeeffffaaaa",
+                    "difficulty": "Medium",
+                    "tags": [
+                        "Inference"
+                    ],
+                    "lines": [
+                        {
+                            "line": "The passage suggests that early printed books were decorated by hand in order to:"
+                        }
+                    ],
+                    "optionType": "single",
+                    "options": [
+                        {
+                            "id": 1,
+                            "option": "disguise the fact that they had been produced using a printing press."
+                        },
+                        {
+                            "id": 2,
+                            "option": "increase their sale price to wealthy collectors."
+                        },
+                        {
+                            "id": 3,
+                            "option": "make them visually consistent with the manuscript books people were accustomed to."
+                        },
+                        {
+                            "id": 4,
+                            "option": "correct errors that occurred during the printing process."
+                        }
+                    ],
+                    "correctOptions": {
+                        "ids": [
+                            3
+                        ]
+                    },
+                    "workedSolution": "<p><strong>Option C is correct</strong> because paragraph 2 states that copies 'were subsequently decorated by hand with coloured illustrations, suggesting that early printed books were intended to resemble, rather than replace, manuscript traditions'. This implies the decoration aimed for visual consistency with familiar handwritten books.</p><p><strong>Option A is incorrect</strong> because the passage says they were intended to 'resemble' manuscripts, not to disguise their origin \u2014 the resemblance was a design choice, not deception.</p><p><strong>Option B is incorrect</strong> because the passage does not mention sale prices or collectors in relation to the decoration.</p><p><strong>Option D is incorrect</strong> because the passage describes the quality of printing as 'remarkably high', not error-prone.</p>"
+                },
+                {
+                    "id": "s06-q2-aaaa-bbbb-cccc-dddd-eeeeffffbbbb",
+                    "difficulty": "Hard",
+                    "tags": [
+                        "Inference",
+                        "Partial Information"
+                    ],
+                    "lines": [
+                        {
+                            "line": "Using information in the passage, it can be inferred that movable type was more practical for European languages than for Chinese because:"
+                        }
+                    ],
+                    "optionType": "single",
+                    "options": [
+                        {
+                            "id": 1,
+                            "option": "European scribes were slower at hand-copying than their Chinese counterparts."
+                        },
+                        {
+                            "id": 2,
+                            "option": "a smaller number of distinct characters meant fewer type pieces were needed."
+                        },
+                        {
+                            "id": 3,
+                            "option": "metal type was stronger and more durable than the ceramic type used by Bi Sheng."
+                        },
+                        {
+                            "id": 4,
+                            "option": "Chinese readers preferred woodblock printing for aesthetic reasons."
+                        }
+                    ],
+                    "correctOptions": {
+                        "ids": [
+                            2
+                        ]
+                    },
+                    "workedSolution": "<p><strong>Option B is correct</strong> because paragraph 4 states that 'the Chinese writing system requires thousands of distinct characters, making movable type far less practical than it proved for alphabetic languages with fewer than thirty letters'. Fewer characters means fewer type pieces to cast, store, and arrange.</p><p><strong>Option A is incorrect</strong> because the passage makes no comparison of scribal speed between European and Chinese copyists.</p><p><strong>Option C is incorrect</strong> because while paragraph 4 notes Bi Sheng used ceramic rather than metal, the passage attributes the impracticality to the number of characters, not the material of the type.</p><p><strong>Option D is incorrect</strong> because the passage does not mention Chinese aesthetic preferences for woodblock printing.</p>"
+                },
+                {
+                    "id": "s06-q3-aaaa-bbbb-cccc-dddd-eeeeffffcccc",
+                    "difficulty": "Easy",
+                    "tags": [
+                        "Numerical"
+                    ],
+                    "lines": [
+                        {
+                            "line": "According to the passage, how many copies of the Gutenberg Bible are known to survive?"
+                        }
+                    ],
+                    "optionType": "single",
+                    "options": [
+                        {
+                            "id": 1,
+                            "option": "Approximately twenty."
+                        },
+                        {
+                            "id": 2,
+                            "option": "Exactly forty-nine."
+                        },
+                        {
+                            "id": 3,
+                            "option": "Approximately one hundred and eighty."
+                        },
+                        {
+                            "id": 4,
+                            "option": "More than two hundred."
+                        }
+                    ],
+                    "correctOptions": {
+                        "ids": [
+                            2
+                        ]
+                    },
+                    "workedSolution": "<p><strong>Option B is correct</strong> because paragraph 2 states 'approximately one hundred and eighty copies were produced, of which forty-nine are known to survive'.</p><p><strong>Option A is incorrect</strong> because twenty is not mentioned in the passage.</p><p><strong>Option C is incorrect</strong> because one hundred and eighty was the number produced, not the number surviving \u2014 a common trap confusing total production with surviving copies.</p><p><strong>Option D is incorrect</strong> because two hundred exceeds both figures given in the passage.</p>"
+                },
+                {
+                    "id": "s06-q4-aaaa-bbbb-cccc-dddd-eeeeffffdddd",
+                    "difficulty": "Max",
+                    "tags": [
+                        "Negation"
+                    ],
+                    "lines": [
+                        {
+                            "line": "Which of the following is most likely to be false according to the passage?"
+                        }
+                    ],
+                    "optionType": "single",
+                    "options": [
+                        {
+                            "id": 1,
+                            "option": "The printing press contributed to the spread of the Protestant Reformation."
+                        },
+                        {
+                            "id": 2,
+                            "option": "Gutenberg was the first person in history to develop the concept of movable type."
+                        },
+                        {
+                            "id": 3,
+                            "option": "The availability of printed books helped to increase literacy rates in Europe."
+                        },
+                        {
+                            "id": 4,
+                            "option": "Woodblock printing required a separate carved block for each individual page."
+                        }
+                    ],
+                    "correctOptions": {
+                        "ids": [
+                            2
+                        ]
+                    },
+                    "workedSolution": "<p><strong>Option B is most likely false</strong> because paragraph 4 explicitly states that 'movable type printing had been developed in China by Bi Sheng as early as 1040, some four centuries before Gutenberg'. Gutenberg therefore was not the first to develop the concept.</p><p><strong>Option A is supported</strong> in paragraph 3: printing 'contributed directly to the Protestant Reformation'.</p><p><strong>Option C is supported</strong> in paragraph 3: 'the wider availability of texts accelerated the spread of literacy'.</p><p><strong>Option D is supported</strong> in paragraph 1: woodblock printing 'required a new carved block for every page'.</p>"
+                }
+            ]
+        },
+        {
+            "id": "set-07-a7b8c9d0-7777-4aaa-2222-333344445555",
+            "layout": "horizontal",
+            "category": "Verbal Reasoning",
+            "subCategory": "VR Long Answer",
+            "stem": {
+                "lines": [
+                    {
+                        "line": "Universal Basic Income, commonly abbreviated to UBI, is a policy proposal under which every adult citizen receives a regular, unconditional cash payment from the government, regardless of their employment status or income level. Proponents argue that UBI would eliminate extreme poverty, reduce the bureaucratic complexity of existing welfare systems, and provide a financial safety net that encourages entrepreneurship and retraining in an era of increasing automation."
+                    },
+                    {
+                        "line": "\n"
+                    },
+                    {
+                        "line": "The most frequently cited large-scale trial of UBI took place in Finland between 2017 and 2018. Two thousand unemployed citizens received a monthly payment of five hundred and sixty euros, replacing their existing unemployment benefits. The results were mixed: recipients reported significantly higher levels of life satisfaction, trust in institutions, and psychological wellbeing compared with a control group. However, the trial found no statistically significant increase in employment among recipients, undermining one of the central claims made by UBI advocates."
+                    },
+                    {
+                        "line": "\n"
+                    },
+                    {
+                        "line": "Critics of UBI raise several objections. The fiscal cost of providing a meaningful payment to every adult citizen would be enormous, potentially requiring substantial tax increases or the reallocation of funds from other public services. Some economists argue that a universal payment would be inflationary, as increased consumer spending would drive up prices without a corresponding increase in the supply of goods and services. Others contend that targeted welfare programmes, which direct resources to those with the greatest need, are a more efficient use of public funds than a universal payment that also goes to the wealthy."
+                    },
+                    {
+                        "line": "\n"
+                    },
+                    {
+                        "line": "Despite these concerns, interest in UBI has grown in recent years, fuelled by anxieties about job displacement through artificial intelligence and robotics. Pilot programmes have been launched or proposed in Canada, Kenya, Spain, and several cities in the United States. Whether any government will adopt UBI as a permanent national policy remains to be seen."
+                    }
+                ],
+                "images": []
+            },
+            "questions": [
+                {
+                    "id": "s07-q1-aaaa-bbbb-cccc-dddd-eeeeffffaaaa",
+                    "difficulty": "Easy",
+                    "tags": [
+                        "Direct Retrieval"
+                    ],
+                    "lines": [
+                        {
+                            "line": "According to the passage, the Finnish UBI trial found that recipients experienced:"
+                        }
+                    ],
+                    "optionType": "single",
+                    "options": [
+                        {
+                            "id": 1,
+                            "option": "a significant increase in both employment and wellbeing."
+                        },
+                        {
+                            "id": 2,
+                            "option": "improved wellbeing but no significant increase in employment."
+                        },
+                        {
+                            "id": 3,
+                            "option": "no measurable change in either employment or wellbeing."
+                        },
+                        {
+                            "id": 4,
+                            "option": "higher employment rates but lower levels of life satisfaction."
+                        }
+                    ],
+                    "correctOptions": {
+                        "ids": [
+                            2
+                        ]
+                    },
+                    "workedSolution": "<p><strong>Option B is correct</strong> because paragraph 2 states recipients reported 'significantly higher levels of life satisfaction, trust in institutions, and psychological wellbeing' but the trial found 'no statistically significant increase in employment'.</p><p><strong>Option A is incorrect</strong> because while wellbeing improved, employment did not increase significantly.</p><p><strong>Option C is incorrect</strong> because wellbeing did improve measurably.</p><p><strong>Option D is incorrect</strong> because it reverses both findings \u2014 employment did not rise and life satisfaction did not fall.</p>"
+                },
+                {
+                    "id": "s07-q2-aaaa-bbbb-cccc-dddd-eeeeffffbbbb",
+                    "difficulty": "Hard",
+                    "tags": [
+                        "Inference"
+                    ],
+                    "lines": [
+                        {
+                            "line": "The economists who favour targeted welfare over UBI most likely believe that:"
+                        }
+                    ],
+                    "optionType": "single",
+                    "options": [
+                        {
+                            "id": 1,
+                            "option": "wealthy citizens should not receive any form of government assistance."
+                        },
+                        {
+                            "id": 2,
+                            "option": "resources should be concentrated where they will have the greatest impact on reducing hardship."
+                        },
+                        {
+                            "id": 3,
+                            "option": "automation will not significantly affect employment levels in the future."
+                        },
+                        {
+                            "id": 4,
+                            "option": "the Finnish trial proved that cash payments do not improve people's lives."
+                        }
+                    ],
+                    "correctOptions": {
+                        "ids": [
+                            2
+                        ]
+                    },
+                    "workedSolution": "<p><strong>Option B is correct</strong> because paragraph 3 states these economists 'contend that targeted welfare programmes, which direct resources to those with the greatest need, are a more efficient use of public funds'. The underlying belief is that concentrating resources on those most in need produces a greater impact per unit of spending.</p><p><strong>Option A is incorrect</strong> because the argument is about efficiency, not about an absolute rule against wealthy people receiving assistance.</p><p><strong>Option C is incorrect</strong> because these economists' objection is about welfare design, not about predictions regarding automation.</p><p><strong>Option D is incorrect</strong> because the Finnish trial showed improved wellbeing, and the passage does not attribute this specific misreading to targeted-welfare advocates.</p>"
+                },
+                {
+                    "id": "s07-q3-aaaa-bbbb-cccc-dddd-eeeeffffcccc",
+                    "difficulty": "Medium",
+                    "tags": [
+                        "Negation",
+                        "Direct Retrieval"
+                    ],
+                    "lines": [
+                        {
+                            "line": "Based on the passage, each of the following is a stated criticism of UBI EXCEPT:"
+                        }
+                    ],
+                    "optionType": "single",
+                    "options": [
+                        {
+                            "id": 1,
+                            "option": "the high fiscal cost of providing payments to every adult citizen."
+                        },
+                        {
+                            "id": 2,
+                            "option": "the potential for increased consumer spending to cause inflation."
+                        },
+                        {
+                            "id": 3,
+                            "option": "the risk that UBI payments would discourage charitable giving by private citizens."
+                        },
+                        {
+                            "id": 4,
+                            "option": "the argument that targeted programmes are a more efficient use of public funds."
+                        }
+                    ],
+                    "correctOptions": {
+                        "ids": [
+                            3
+                        ]
+                    },
+                    "workedSolution": "<p><strong>Option C is correct (EXCEPT)</strong> because the passage makes no reference to charitable giving or the effect of UBI on private donations. This criticism is not mentioned anywhere.</p><p><strong>Option A is stated</strong> in paragraph 3: 'the fiscal cost of providing a meaningful payment to every adult citizen would be enormous'.</p><p><strong>Option B is stated</strong> in paragraph 3: 'a universal payment would be inflationary, as increased consumer spending would drive up prices'.</p><p><strong>Option D is stated</strong> in paragraph 3: 'targeted welfare programmes... are a more efficient use of public funds'.</p>"
+                },
+                {
+                    "id": "s07-q4-aaaa-bbbb-cccc-dddd-eeeeffffdddd",
+                    "difficulty": "Max",
+                    "tags": [
+                        "Inference",
+                        "Partial Information"
+                    ],
+                    "lines": [
+                        {
+                            "line": "The passage implies that interest in UBI has recently increased primarily because of:"
+                        }
+                    ],
+                    "optionType": "single",
+                    "options": [
+                        {
+                            "id": 1,
+                            "option": "the success of the Finnish trial in demonstrating higher employment rates."
+                        },
+                        {
+                            "id": 2,
+                            "option": "growing fears that technological change will make many existing jobs obsolete."
+                        },
+                        {
+                            "id": 3,
+                            "option": "a global consensus among economists that UBI is the most cost-effective welfare system."
+                        },
+                        {
+                            "id": 4,
+                            "option": "the proven ability of UBI to eliminate inflation in countries where it has been introduced."
+                        }
+                    ],
+                    "correctOptions": {
+                        "ids": [
+                            2
+                        ]
+                    },
+                    "workedSolution": "<p><strong>Option B is correct</strong> because paragraph 4 states that interest has been 'fuelled by anxieties about job displacement through artificial intelligence and robotics'. This directly links growing interest to fears about technological unemployment.</p><p><strong>Option A is incorrect</strong> because the Finnish trial did not demonstrate higher employment \u2014 the passage explicitly says there was 'no statistically significant increase in employment'.</p><p><strong>Option C is incorrect</strong> because the passage presents multiple criticisms of UBI and no global consensus in its favour.</p><p><strong>Option D is incorrect</strong> because the passage identifies inflation as a concern about UBI, not a proven benefit.</p>"
+                }
+            ]
+        },
+        {
+            "id": "set-08-b8c9d0e1-8888-4bbb-3333-444455556666",
+            "layout": "horizontal",
+            "category": "Verbal Reasoning",
+            "subCategory": "VR Long Answer",
+            "stem": {
+                "lines": [
+                    {
+                        "line": "Ice cores extracted from the Antarctic ice sheet provide one of the most detailed records of Earth's past climate. As snow falls and compresses into ice over thousands of years, it traps tiny bubbles of atmospheric gas. By drilling into the ice and analysing these bubbles, scientists can measure the concentration of carbon dioxide, methane, and other greenhouse gases at the time the snow originally fell. The deepest Antarctic cores, recovered from a site known as Dome C, extend back approximately eight hundred thousand years."
+                    },
+                    {
+                        "line": "\n"
+                    },
+                    {
+                        "line": "Analysis of these cores has revealed a striking pattern. Over the past eight hundred millennia, atmospheric carbon dioxide concentrations have oscillated between approximately one hundred and eighty parts per million during glacial periods and two hundred and eighty parts per million during warmer interglacial periods. This natural variation tracks closely with temperature changes inferred from the ratio of oxygen isotopes in the ice. Crucially, current atmospheric carbon dioxide levels now exceed four hundred and twenty parts per million, a figure without precedent in the entire ice core record."
+                    },
+                    {
+                        "line": "\n"
+                    },
+                    {
+                        "line": "The ice cores also contain volcanic ash, wind-blown dust, and traces of sea salt, which provide additional information about atmospheric circulation patterns, volcanic eruptions, and the extent of sea ice at different points in history. By correlating these indicators with the gas and temperature data, researchers have constructed a remarkably detailed picture of how Earth's climate system responds to changes in atmospheric composition."
+                    },
+                    {
+                        "line": "\n"
+                    },
+                    {
+                        "line": "Critics of climate policy sometimes argue that the natural oscillations visible in the ice core record demonstrate that the current warming trend is simply part of a natural cycle. However, climate scientists point out that the rate of increase in carbon dioxide over the past century far exceeds anything observed in the natural record, and that the current concentration is approximately fifty per cent higher than the highest level recorded during any previous interglacial period."
+                    }
+                ],
+                "images": []
+            },
+            "questions": [
+                {
+                    "id": "s08-q1-aaaa-bbbb-cccc-dddd-eeeeffffaaaa",
+                    "difficulty": "Medium",
+                    "tags": [
+                        "Direct Retrieval",
+                        "Numerical"
+                    ],
+                    "lines": [
+                        {
+                            "line": "According to the passage, the natural range of atmospheric carbon dioxide over the past eight hundred thousand years has been between:"
+                        }
+                    ],
+                    "optionType": "single",
+                    "options": [
+                        {
+                            "id": 1,
+                            "option": "one hundred and eighty and four hundred and twenty parts per million."
+                        },
+                        {
+                            "id": 2,
+                            "option": "one hundred and eighty and two hundred and eighty parts per million."
+                        },
+                        {
+                            "id": 3,
+                            "option": "two hundred and eighty and four hundred and twenty parts per million."
+                        },
+                        {
+                            "id": 4,
+                            "option": "one hundred and two hundred and eighty parts per million."
+                        }
+                    ],
+                    "correctOptions": {
+                        "ids": [
+                            2
+                        ]
+                    },
+                    "workedSolution": "<p><strong>Option B is correct</strong> because paragraph 2 states that carbon dioxide 'have oscillated between approximately one hundred and eighty parts per million during glacial periods and two hundred and eighty parts per million during warmer interglacial periods'. The four hundred and twenty figure is the current level, described as 'without precedent in the entire ice core record', and therefore falls outside the natural range.</p><p><strong>Option A is incorrect</strong> because it includes the current unprecedented level (420 ppm) as part of the natural range.</p><p><strong>Option C is incorrect</strong> because it omits the glacial minimum and includes the unprecedented current level.</p><p><strong>Option D is incorrect</strong> because one hundred ppm is not a figure mentioned in the passage.</p>"
+                },
+                {
+                    "id": "s08-q2-aaaa-bbbb-cccc-dddd-eeeeffffbbbb",
+                    "difficulty": "Easy",
+                    "tags": [
+                        "Direct Retrieval"
+                    ],
+                    "lines": [
+                        {
+                            "line": "According to the passage, ice cores trap records of past atmospheric conditions through:"
+                        }
+                    ],
+                    "optionType": "single",
+                    "options": [
+                        {
+                            "id": 1,
+                            "option": "fossilised remains of microscopic organisms preserved in the ice."
+                        },
+                        {
+                            "id": 2,
+                            "option": "bubbles of atmospheric gas trapped as snow compresses into ice."
+                        },
+                        {
+                            "id": 3,
+                            "option": "chemical reactions between ice and underground rock formations."
+                        },
+                        {
+                            "id": 4,
+                            "option": "satellite measurements of ice thickness at different locations."
+                        }
+                    ],
+                    "correctOptions": {
+                        "ids": [
+                            2
+                        ]
+                    },
+                    "workedSolution": "<p><strong>Option B is correct</strong> because paragraph 1 states 'As snow falls and compresses into ice over thousands of years, it traps tiny bubbles of atmospheric gas'.</p><p><strong>Option A is incorrect</strong> because the passage mentions gas bubbles, volcanic ash, dust, and sea salt \u2014 not fossilised organisms.</p><p><strong>Option C is incorrect</strong> because the passage describes surface snow compressing into ice, not chemical reactions with underground rock.</p><p><strong>Option D is incorrect</strong> because the passage describes physical drilling and analysis of ice cores, not satellite measurements.</p>"
+                },
+                {
+                    "id": "s08-q3-aaaa-bbbb-cccc-dddd-eeeeffffcccc",
+                    "difficulty": "Max",
+                    "tags": [
+                        "Strengthen / Weaken"
+                    ],
+                    "lines": [
+                        {
+                            "line": "Which of the following would most weaken the argument made by the critics described in the final paragraph?"
+                        }
+                    ],
+                    "optionType": "single",
+                    "options": [
+                        {
+                            "id": 1,
+                            "option": "A newly discovered ice core showing that volcanic eruptions were more frequent in the distant past."
+                        },
+                        {
+                            "id": 2,
+                            "option": "Evidence that natural carbon dioxide increases in previous cycles took thousands of years, whereas the current increase has occurred within two centuries."
+                        },
+                        {
+                            "id": 3,
+                            "option": "A study showing that temperatures during the last interglacial period were slightly warmer than today."
+                        },
+                        {
+                            "id": 4,
+                            "option": "Data confirming that methane concentrations have also varied naturally over the past eight hundred thousand years."
+                        }
+                    ],
+                    "correctOptions": {
+                        "ids": [
+                            2
+                        ]
+                    },
+                    "workedSolution": "<p><strong>Option B is correct</strong> because the critics argue the current trend is 'simply part of a natural cycle'. Evidence showing that natural changes took thousands of years while the current change happened in two centuries would demonstrate the rate is unprecedented, directly undermining the claim that this is a natural cycle. This aligns with the scientists' response in paragraph 4 about the rate far exceeding anything in the natural record.</p><p><strong>Option A is irrelevant</strong> because volcanic frequency does not address whether current CO2 changes are natural or anthropogenic.</p><p><strong>Option C would actually strengthen</strong> the critics' argument by suggesting natural warmth can match current temperatures.</p><p><strong>Option D is irrelevant</strong> because natural methane variation does not address whether the current CO2 increase is natural.</p>"
+                },
+                {
+                    "id": "s08-q4-aaaa-bbbb-cccc-dddd-eeeeffffdddd",
+                    "difficulty": "Hard",
+                    "tags": [
+                        "Inference"
+                    ],
+                    "lines": [
+                        {
+                            "line": "Climate scientists respond to the 'natural cycle' argument by emphasising that:"
+                        }
+                    ],
+                    "optionType": "single",
+                    "options": [
+                        {
+                            "id": 1,
+                            "option": "the ice core record is too short to identify natural climate cycles."
+                        },
+                        {
+                            "id": 2,
+                            "option": "natural oscillations in carbon dioxide have never occurred in Earth's history."
+                        },
+                        {
+                            "id": 3,
+                            "option": "the speed and magnitude of the current increase are without precedent in the recorded data."
+                        },
+                        {
+                            "id": 4,
+                            "option": "volcanic eruptions are the primary cause of the current rise in carbon dioxide."
+                        }
+                    ],
+                    "correctOptions": {
+                        "ids": [
+                            3
+                        ]
+                    },
+                    "workedSolution": "<p><strong>Option C is correct</strong> because paragraph 4 states that scientists 'point out that the rate of increase in carbon dioxide over the past century far exceeds anything observed in the natural record' and that the current concentration is 'approximately fifty per cent higher than the highest level recorded during any previous interglacial period'. Both the speed and the magnitude are described as unprecedented.</p><p><strong>Option A is incorrect</strong> because the scientists use the ice core record (800,000 years) as evidence, not dismiss it.</p><p><strong>Option B is incorrect</strong> because paragraph 2 explicitly acknowledges natural oscillations; the scientists' point is about the unprecedented rate and level, not the existence of oscillations.</p><p><strong>Option D is incorrect</strong> because the passage does not attribute the current rise to volcanic eruptions.</p>"
+                }
+            ]
+        },
+        {
+            "id": "set-09-c9d0e1f2-9999-4ccc-4444-555566667777",
+            "layout": "horizontal",
+            "category": "Verbal Reasoning",
+            "subCategory": "VR Long Answer",
+            "stem": {
+                "lines": [
+                    {
+                        "line": "The suffragette movement in Britain is most closely associated with the campaign for women's voting rights in the early twentieth century, but its roots extend back considerably further. As early as 1832, a petition presented to Parliament by the radical MP Henry Hunt called for the vote to be extended to unmarried women who owned property. The request was dismissed, and the 1832 Reform Act explicitly used the word 'male' for the first time in electoral legislation, formally excluding women from the franchise."
+                    },
+                    {
+                        "line": "\n"
+                    },
+                    {
+                        "line": "Organised campaigning intensified in the 1860s with the formation of the National Society for Women's Suffrage. For decades, these campaigners pursued change through peaceful means: petitions, public meetings, and lobbying of sympathetic parliamentarians. Despite growing public support, successive governments refused to act. Frustrated by this lack of progress, Emmeline Pankhurst founded the Women's Social and Political Union in 1903, adopting the confrontational tactics that would define the suffragette movement: window-smashing, arson, and hunger strikes."
+                    },
+                    {
+                        "line": "\n"
+                    },
+                    {
+                        "line": "The outbreak of the First World War in 1914 led Pankhurst to suspend militant action and encourage women to support the war effort. Women entered the workforce in unprecedented numbers, filling roles in factories, transport, and agriculture that had previously been reserved for men. Historians continue to debate whether it was the suffragettes' pre-war militancy, women's wartime contribution, or the broader political changes accompanying the war that proved decisive in securing the vote."
+                    },
+                    {
+                        "line": "\n"
+                    },
+                    {
+                        "line": "The Representation of the People Act 1918 granted the vote to women over thirty who met a property qualification. It was not until the Equal Franchise Act of 1928, ten years later, that women achieved voting rights on equal terms with men, who had been eligible to vote from the age of twenty-one since 1918. Emmeline Pankhurst died just weeks before the 1928 Act was passed."
+                    }
+                ],
+                "images": []
+            },
+            "questions": [
+                {
+                    "id": "s09-q1-aaaa-bbbb-cccc-dddd-eeeeffffaaaa",
+                    "difficulty": "Hard",
+                    "tags": [
+                        "Inference"
+                    ],
+                    "lines": [
+                        {
+                            "line": "The passage implies that the 1832 Reform Act was significant for the women's suffrage movement because it:"
+                        }
+                    ],
+                    "optionType": "single",
+                    "options": [
+                        {
+                            "id": 1,
+                            "option": "gave propertied women the right to vote for the first time."
+                        },
+                        {
+                            "id": 2,
+                            "option": "introduced an explicit legal barrier that had not previously existed in electoral law."
+                        },
+                        {
+                            "id": 3,
+                            "option": "was the first piece of legislation to be debated by female members of Parliament."
+                        },
+                        {
+                            "id": 4,
+                            "option": "inspired Emmeline Pankhurst to found the Women's Social and Political Union."
+                        }
+                    ],
+                    "correctOptions": {
+                        "ids": [
+                            2
+                        ]
+                    },
+                    "workedSolution": "<p><strong>Option B is correct</strong> because paragraph 1 states the 1832 Reform Act 'explicitly used the word \"male\" for the first time in electoral legislation, formally excluding women from the franchise'. By introducing the word 'male', it created an explicit legal barrier where previously women's exclusion had been assumed rather than codified.</p><p><strong>Option A is incorrect</strong> because the Act excluded women; it did not grant them voting rights.</p><p><strong>Option C is incorrect</strong> because there were no female MPs in 1832; the first woman to take her seat in Parliament was Nancy Astor in 1919.</p><p><strong>Option D is incorrect</strong> because Pankhurst founded the WSPU in 1903, motivated by decades of failed peaceful campaigning (paragraph 2), not specifically by the 1832 Act.</p>"
+                },
+                {
+                    "id": "s09-q2-aaaa-bbbb-cccc-dddd-eeeeffffbbbb",
+                    "difficulty": "Medium",
+                    "tags": [
+                        "Direct Retrieval"
+                    ],
+                    "lines": [
+                        {
+                            "line": "According to the passage, the Women's Social and Political Union differed from earlier suffrage organisations in that it:"
+                        }
+                    ],
+                    "optionType": "single",
+                    "options": [
+                        {
+                            "id": 1,
+                            "option": "focused exclusively on securing voting rights for wealthy women."
+                        },
+                        {
+                            "id": 2,
+                            "option": "adopted militant and confrontational tactics rather than peaceful lobbying."
+                        },
+                        {
+                            "id": 3,
+                            "option": "was the first organisation to present a petition to Parliament."
+                        },
+                        {
+                            "id": 4,
+                            "option": "opposed women entering the workforce during the First World War."
+                        }
+                    ],
+                    "correctOptions": {
+                        "ids": [
+                            2
+                        ]
+                    },
+                    "workedSolution": "<p><strong>Option B is correct</strong> because paragraph 2 contrasts the earlier campaigners who 'pursued change through peaceful means: petitions, public meetings, and lobbying' with Pankhurst's WSPU which adopted 'confrontational tactics... window-smashing, arson, and hunger strikes'.</p><p><strong>Option A is incorrect</strong> because the passage does not state the WSPU focused exclusively on wealthy women.</p><p><strong>Option C is incorrect</strong> because the 1832 petition predated the WSPU by over seventy years.</p><p><strong>Option D is incorrect</strong> because paragraph 3 states Pankhurst 'encourage women to support the war effort', not that she opposed their participation.</p>"
+                },
+                {
+                    "id": "s09-q3-aaaa-bbbb-cccc-dddd-eeeeffffcccc",
+                    "difficulty": "Easy",
+                    "tags": [
+                        "Numerical"
+                    ],
+                    "lines": [
+                        {
+                            "line": "Based on the passage, the gap between women first gaining voting rights and achieving equal voting terms with men was:"
+                        }
+                    ],
+                    "optionType": "single",
+                    "options": [
+                        {
+                            "id": 1,
+                            "option": "six years."
+                        },
+                        {
+                            "id": 2,
+                            "option": "ten years."
+                        },
+                        {
+                            "id": 3,
+                            "option": "fourteen years."
+                        },
+                        {
+                            "id": 4,
+                            "option": "twenty-one years."
+                        }
+                    ],
+                    "correctOptions": {
+                        "ids": [
+                            2
+                        ]
+                    },
+                    "workedSolution": "<p><strong>Option B is correct</strong> because the Representation of the People Act was passed in 1918 and the Equal Franchise Act in 1928. The passage explicitly states this was 'ten years later'.</p><p><strong>Option A is incorrect</strong> \u2014 six years does not match any date calculation in the passage.</p><p><strong>Option C is incorrect</strong> \u2014 fourteen years would place equality at 1932, which is not supported.</p><p><strong>Option D is incorrect</strong> \u2014 twenty-one is the voting age mentioned for men, not a time gap. This distractor tests whether students confuse the two numbers.</p>"
+                },
+                {
+                    "id": "s09-q4-aaaa-bbbb-cccc-dddd-eeeeffffdddd",
+                    "difficulty": "Max",
+                    "tags": [
+                        "Out of Scope"
+                    ],
+                    "lines": [
+                        {
+                            "line": "Which of the following questions cannot be answered using information in the passage?"
+                        }
+                    ],
+                    "optionType": "single",
+                    "options": [
+                        {
+                            "id": 1,
+                            "option": "When did Emmeline Pankhurst die?"
+                        },
+                        {
+                            "id": 2,
+                            "option": "What militant tactics did the suffragettes use?"
+                        },
+                        {
+                            "id": 3,
+                            "option": "How many women were arrested during the suffragette campaign?"
+                        },
+                        {
+                            "id": 4,
+                            "option": "In what year did women over thirty first gain the right to vote?"
+                        }
+                    ],
+                    "correctOptions": {
+                        "ids": [
+                            3
+                        ]
+                    },
+                    "workedSolution": "<p><strong>Option C is correct (cannot be answered)</strong> because the passage makes no reference to arrest numbers or the number of women detained during the suffragette campaign.</p><p><strong>Option A can be answered</strong> \u2014 paragraph 4 states Pankhurst 'died just weeks before the 1928 Act was passed', placing her death in 1928.</p><p><strong>Option B can be answered</strong> \u2014 paragraph 2 lists 'window-smashing, arson, and hunger strikes'.</p><p><strong>Option D can be answered</strong> \u2014 paragraph 4 states the 1918 Act 'granted the vote to women over thirty'.</p>"
+                }
+            ]
+        },
+        {
+            "id": "set-10-d0e1f2a3-0000-4ddd-5555-666677778888",
+            "layout": "horizontal",
+            "category": "Verbal Reasoning",
+            "subCategory": "VR Long Answer",
+            "stem": {
+                "lines": [
+                    {
+                        "line": "Antibiotics transformed medicine in the twentieth century, but their effectiveness is now threatened by the emergence of resistant bacteria. Antimicrobial resistance occurs when bacteria evolve mechanisms to survive exposure to drugs that would previously have killed them. This process is accelerated by the overuse and misuse of antibiotics in both human medicine and animal agriculture. The World Health Organisation estimates that drug-resistant infections already cause approximately seven hundred thousand deaths per year and warns that this figure could rise to ten million by 2050 if current trends continue."
+                    },
+                    {
+                        "line": "\n"
+                    },
+                    {
+                        "line": "Resistance develops through several biological mechanisms. Some bacteria produce enzymes that break down the antibiotic molecule before it can take effect. Others modify the cellular target that the antibiotic is designed to attack, rendering the drug unable to bind. A third mechanism involves the development of efflux pumps, which actively expel the antibiotic from the bacterial cell before it reaches a lethal concentration. These resistance traits can be passed between bacteria through horizontal gene transfer, allowing resistance to spread rapidly even between unrelated species."
+                    },
+                    {
+                        "line": "\n"
+                    },
+                    {
+                        "line": "The development of new antibiotics has slowed dramatically since the 1980s. Pharmaceutical companies have largely withdrawn from antibiotic research because the financial returns are poor: antibiotics are taken for short courses, and any new drug risks being held in reserve to prevent resistance developing, further limiting sales. This has created what researchers describe as a broken economic model, in which the drugs most urgently needed by society are the least profitable to develop."
+                    },
+                    {
+                        "line": "\n"
+                    },
+                    {
+                        "line": "Proposed solutions include public funding for antibiotic research, financial incentives that delink profits from sales volumes, and international agreements to restrict the use of antibiotics in livestock farming. Some scientists are also exploring alternatives to traditional antibiotics, including bacteriophage therapy, which uses viruses that naturally infect and kill specific bacterial species."
+                    }
+                ],
+                "images": []
+            },
+            "questions": [
+                {
+                    "id": "s10-q1-aaaa-bbbb-cccc-dddd-eeeeffffaaaa",
+                    "difficulty": "Medium",
+                    "tags": [
+                        "Direct Retrieval"
+                    ],
+                    "lines": [
+                        {
+                            "line": "According to the passage, the 'broken economic model' in antibiotic development refers to the fact that:"
+                        }
+                    ],
+                    "optionType": "single",
+                    "options": [
+                        {
+                            "id": 1,
+                            "option": "pharmaceutical companies are prevented by law from developing new antibiotics."
+                        },
+                        {
+                            "id": 2,
+                            "option": "the antibiotics most needed by the public are the least financially rewarding to produce."
+                        },
+                        {
+                            "id": 3,
+                            "option": "governments have withdrawn all funding for medical research into infectious diseases."
+                        },
+                        {
+                            "id": 4,
+                            "option": "bacteria have become resistant to every antibiotic that has ever been developed."
+                        }
+                    ],
+                    "correctOptions": {
+                        "ids": [
+                            2
+                        ]
+                    },
+                    "workedSolution": "<p><strong>Option B is correct</strong> because paragraph 3 states the 'broken economic model' is one 'in which the drugs most urgently needed by society are the least profitable to develop', directly matching this option.</p><p><strong>Option A is incorrect</strong> because the passage attributes the slowdown to poor financial returns, not legal prohibitions.</p><p><strong>Option C is incorrect</strong> because government funding withdrawal is not mentioned; paragraph 4 actually proposes 'public funding for antibiotic research' as a solution.</p><p><strong>Option D is incorrect</strong> because the passage discusses growing resistance, not total resistance to all antibiotics.</p>"
+                },
+                {
+                    "id": "s10-q2-aaaa-bbbb-cccc-dddd-eeeeffffbbbb",
+                    "difficulty": "Hard",
+                    "tags": [
+                        "Negation",
+                        "Direct Retrieval"
+                    ],
+                    "lines": [
+                        {
+                            "line": "Which of the following is NOT described in the passage as a mechanism by which bacteria develop resistance?"
+                        }
+                    ],
+                    "optionType": "single",
+                    "options": [
+                        {
+                            "id": 1,
+                            "option": "Producing enzymes that destroy the antibiotic molecule."
+                        },
+                        {
+                            "id": 2,
+                            "option": "Altering the cellular structure that the antibiotic targets."
+                        },
+                        {
+                            "id": 3,
+                            "option": "Developing a thicker cell wall that prevents the antibiotic from entering."
+                        },
+                        {
+                            "id": 4,
+                            "option": "Using pumps to expel the antibiotic from inside the cell."
+                        }
+                    ],
+                    "correctOptions": {
+                        "ids": [
+                            3
+                        ]
+                    },
+                    "workedSolution": "<p><strong>Option C is correct (NOT described)</strong> because the passage does not mention a thicker cell wall as a resistance mechanism. Paragraph 2 describes three mechanisms: enzyme destruction, target modification, and efflux pumps. A thicker cell wall is a plausible-sounding but fabricated distractor.</p><p><strong>Option A is described</strong> in paragraph 2: 'bacteria produce enzymes that break down the antibiotic molecule'.</p><p><strong>Option B is described</strong> in paragraph 2: 'modify the cellular target that the antibiotic is designed to attack'.</p><p><strong>Option D is described</strong> in paragraph 2: 'efflux pumps, which actively expel the antibiotic from the bacterial cell'.</p>"
+                },
+                {
+                    "id": "s10-q3-aaaa-bbbb-cccc-dddd-eeeeffffcccc",
+                    "difficulty": "Easy",
+                    "tags": [
+                        "Numerical"
+                    ],
+                    "lines": [
+                        {
+                            "line": "According to the passage, the projected annual death toll from drug-resistant infections by 2050 is:"
+                        }
+                    ],
+                    "optionType": "single",
+                    "options": [
+                        {
+                            "id": 1,
+                            "option": "seven hundred thousand."
+                        },
+                        {
+                            "id": 2,
+                            "option": "one million."
+                        },
+                        {
+                            "id": 3,
+                            "option": "seven million."
+                        },
+                        {
+                            "id": 4,
+                            "option": "ten million."
+                        }
+                    ],
+                    "correctOptions": {
+                        "ids": [
+                            4
+                        ]
+                    },
+                    "workedSolution": "<p><strong>Option D is correct</strong> because paragraph 1 states the figure 'could rise to ten million by 2050 if current trends continue'.</p><p><strong>Option A is incorrect</strong> because seven hundred thousand is the current annual figure, not the 2050 projection. This distractor tests whether students confuse the current and projected figures.</p><p><strong>Options B and C are incorrect</strong> because neither one million nor seven million appears in the passage.</p>"
+                },
+                {
+                    "id": "s10-q4-aaaa-bbbb-cccc-dddd-eeeeffffdddd",
+                    "difficulty": "Max",
+                    "tags": [
+                        "Vocabulary in Context"
+                    ],
+                    "lines": [
+                        {
+                            "line": "The phrase 'delink profits from sales volumes' in the final paragraph most likely means:"
+                        }
+                    ],
+                    "optionType": "single",
+                    "options": [
+                        {
+                            "id": 1,
+                            "option": "allowing pharmaceutical companies to sell antibiotics without government regulation."
+                        },
+                        {
+                            "id": 2,
+                            "option": "creating a reward system where companies earn returns regardless of how many doses are sold."
+                        },
+                        {
+                            "id": 3,
+                            "option": "preventing pharmaceutical companies from making any profit on antibiotic sales."
+                        },
+                        {
+                            "id": 4,
+                            "option": "requiring companies to sell antibiotics at the lowest possible price."
+                        }
+                    ],
+                    "correctOptions": {
+                        "ids": [
+                            2
+                        ]
+                    },
+                    "workedSolution": "<p><strong>Option B is correct</strong> because 'delink profits from sales volumes' means separating financial reward from the number of units sold. In context, paragraph 3 explains that antibiotics are unprofitable because they are prescribed in short courses and may be held in reserve (limiting sales). Delinking would therefore mean rewarding companies through some other mechanism \u2014 such as milestone payments or prizes \u2014 rather than through volume-based sales revenue.</p><p><strong>Option A is incorrect</strong> because delinking is about reward structure, not deregulation.</p><p><strong>Option C is incorrect</strong> because the aim is to make antibiotic development financially viable, not to eliminate profit entirely.</p><p><strong>Option D is incorrect</strong> because low pricing would worsen the economic problem described in the passage, not solve it.</p>"
+                }
+            ]
+        }
+    ],
+    "totalSets": 10
+}

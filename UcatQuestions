@@ -1,0 +1,166 @@
+{
+    "id": "a7b8c9d0-e1f2-4a3b-c4d5-6e7f8a9b0c1d",
+    "layout": "horizontal",
+    "category": "Verbal Reasoning",
+    "subCategory": "VR Long Answer",
+    "stem": {
+        "lines": [
+            {
+                "line": "The discovery of penicillin is often attributed to a single moment of chance, but its journey from laboratory curiosity to life-saving medicine spanned more than a decade and required the efforts of several scientists. In September 1928, Alexander Fleming, a bacteriologist at St Mary's Hospital in London, returned from holiday to find that a mould had contaminated one of his petri dishes. The bacteria surrounding the mould had been destroyed, suggesting the mould produced a substance capable of killing bacteria. Fleming identified the mould as belonging to the genus Penicillium and named the antibacterial substance penicillin."
+            },
+            {
+                "line": "\n"
+            },
+            {
+                "line": "Despite publishing his findings in 1929, Fleming was unable to isolate penicillin in sufficient quantities or in a stable enough form for clinical use. He largely abandoned the project, and for over ten years penicillin remained an obscure laboratory observation. It was not until 1940 that Howard Florey and Ernst Boris Chain, working at the University of Oxford, developed methods to purify and mass-produce the drug. Their first clinical trial, conducted on a policeman suffering from a severe bacterial infection, demonstrated penicillin's remarkable effectiveness, although the patient ultimately died when supplies of the drug ran out before his treatment was complete."
+            },
+            {
+                "line": "\n"
+            },
+            {
+                "line": "The demands of the Second World War accelerated penicillin production dramatically. By 1944, American pharmaceutical companies were manufacturing enough penicillin to treat all Allied forces wounded on D-Day. The drug is estimated to have saved over two hundred million lives since its introduction. Fleming, Florey, and Chain shared the 1945 Nobel Prize in Physiology or Medicine, though Fleming's name has overshadowed his collaborators in popular memory."
+            },
+            {
+                "line": "\n"
+            },
+            {
+                "line": "Fleming himself cautioned that overuse of antibiotics could lead to resistant bacteria, a warning that has proved remarkably prescient. Today, antimicrobial resistance is recognised by the World Health Organisation as one of the greatest threats to global public health, driven in part by the widespread and often unnecessary prescription of antibiotics in both human medicine and agriculture."
+            }
+        ],
+        "images": []
+    },
+    "questions": [
+        {
+            "id": "1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d",
+            "difficulty": "Easy",
+            "tags": ["Direct Retrieval"],
+            "lines": [
+                {
+                    "line": "According to the passage, Fleming's initial discovery of penicillin occurred when:"
+                }
+            ],
+            "optionType": "single",
+            "options": [
+                {
+                    "id": 1,
+                    "option": "he was conducting a planned experiment on antibacterial substances at St Mary's Hospital."
+                },
+                {
+                    "id": 2,
+                    "option": "a mould contaminated a petri dish while he was away from the laboratory."
+                },
+                {
+                    "id": 3,
+                    "option": "Howard Florey sent him a sample of an unusual mould from Oxford for analysis."
+                },
+                {
+                    "id": 4,
+                    "option": "he was attempting to develop a treatment for soldiers wounded in the Second World War."
+                }
+            ],
+            "correctOptions": {
+                "ids": [2]
+            },
+            "workedSolution": "<p><strong>Option B is correct</strong> because paragraph 1 states that Fleming 'returned from holiday to find that a mould had contaminated one of his petri dishes' and that 'the bacteria surrounding the mould had been destroyed'.</p><p><strong>Option A is incorrect</strong> because the passage describes the discovery as 'a single moment of chance', not a planned experiment. The mention of St Mary's Hospital is accurate but the framing of a deliberate experiment is a misreading.</p><p><strong>Option C is incorrect</strong> because Florey is not introduced until paragraph 2 and worked at Oxford independently; there is no reference to him sending Fleming anything.</p><p><strong>Option D is incorrect</strong> because the discovery occurred in 1928, well before the Second World War (paragraph 3 places wartime production in the 1940s).</p>"
+        },
+        {
+            "id": "2b3c4d5e-6f7a-4b8c-9d0e-1f2a3b4c5d6e",
+            "difficulty": "Medium",
+            "tags": ["Inference"],
+            "lines": [
+                {
+                    "line": "The passage suggests that Fleming's contribution to the development of penicillin was:"
+                }
+            ],
+            "optionType": "single",
+            "options": [
+                {
+                    "id": 1,
+                    "option": "less significant than that of Florey and Chain because he did not complete the research."
+                },
+                {
+                    "id": 2,
+                    "option": "important as an initial observation but insufficient to produce a usable medicine."
+                },
+                {
+                    "id": 3,
+                    "option": "exaggerated by contemporary scientists who wanted to credit a single individual."
+                },
+                {
+                    "id": 4,
+                    "option": "limited to naming the substance after the Penicillium mould."
+                }
+            ],
+            "correctOptions": {
+                "ids": [2]
+            },
+            "workedSolution": "<p><strong>Option B is correct</strong> because paragraph 1 describes Fleming's discovery and naming of penicillin, but paragraph 2 states he 'was unable to isolate penicillin in sufficient quantities or in a stable enough form for clinical use' and 'largely abandoned the project'. It took Florey and Chain to make it usable.</p><p><strong>Option A is incorrect</strong> because the passage does not compare the significance of their contributions — it states all three shared the Nobel Prize, implying shared credit rather than ranking.</p><p><strong>Option C is incorrect</strong> because the passage says Fleming's name 'has overshadowed his collaborators in popular memory', not that contemporary scientists exaggerated his role. This is a misreading of the source of the imbalance.</p><p><strong>Option D is incorrect</strong> because Fleming also identified the antibacterial properties of the mould and published his findings — his contribution extended well beyond simply naming the substance.</p>"
+        },
+        {
+            "id": "3c4d5e6f-7a8b-4c9d-0e1f-2a3b4c5d6e7f",
+            "difficulty": "Hard",
+            "tags": ["Negation", "Direct Retrieval"],
+            "lines": [
+                {
+                    "line": "Which of the following is NOT supported by information in the passage?"
+                }
+            ],
+            "optionType": "single",
+            "options": [
+                {
+                    "id": 1,
+                    "option": "The first patient treated with purified penicillin made a full recovery."
+                },
+                {
+                    "id": 2,
+                    "option": "Fleming warned about the potential for bacteria to become resistant to antibiotics."
+                },
+                {
+                    "id": 3,
+                    "option": "Penicillin production was scaled up significantly during the Second World War."
+                },
+                {
+                    "id": 4,
+                    "option": "Fleming's discovery was made possible partly by an unplanned event."
+                }
+            ],
+            "correctOptions": {
+                "ids": [1]
+            },
+            "workedSolution": "<p><strong>Option A is correct (NOT supported)</strong> because paragraph 2 explicitly states that 'the patient ultimately died when supplies of the drug ran out before his treatment was complete'. The passage directly contradicts the claim of a full recovery.</p><p><strong>Option B is supported</strong> because paragraph 4 states that 'Fleming himself cautioned that overuse of antibiotics could lead to resistant bacteria'.</p><p><strong>Option C is supported</strong> because paragraph 3 states that 'the demands of the Second World War accelerated penicillin production dramatically' and that by 1944, enough was manufactured to treat Allied forces on D-Day.</p><p><strong>Option D is supported</strong> because the opening sentence describes the discovery as 'a single moment of chance' and paragraph 1 describes the accidental mould contamination.</p>"
+        },
+        {
+            "id": "4d5e6f7a-8b9c-4d0e-1f2a-3b4c5d6e7f8a",
+            "difficulty": "Max",
+            "tags": ["Inference", "Partial Information"],
+            "lines": [
+                {
+                    "line": "It can be inferred from the passage that Fleming's name is better known than Florey's and Chain's most likely because:"
+                }
+            ],
+            "optionType": "single",
+            "options": [
+                {
+                    "id": 1,
+                    "option": "Fleming received a larger share of the Nobel Prize than his two collaborators."
+                },
+                {
+                    "id": 2,
+                    "option": "the narrative of an accidental discovery appeals more to popular imagination than systematic research."
+                },
+                {
+                    "id": 3,
+                    "option": "Florey and Chain declined public recognition for their role in developing penicillin."
+                },
+                {
+                    "id": 4,
+                    "option": "Fleming conducted the first successful clinical trial of penicillin on a human patient."
+                }
+            ],
+            "correctOptions": {
+                "ids": [2]
+            },
+            "workedSolution": "<p><strong>Option B is correct</strong> because the passage opens by framing penicillin's discovery as 'a single moment of chance' and later notes that 'Fleming's name has overshadowed his collaborators in popular memory'. The implication is that the dramatic narrative of accidental discovery is more memorable than the methodical work of purification and mass production — a reasonable inference from these two details combined.</p><p><strong>Option A is incorrect</strong> because the passage states all three 'shared' the Nobel Prize and gives no indication that the prize was divided unequally.</p><p><strong>Option C is incorrect</strong> because there is no reference in the passage to Florey and Chain declining recognition. The passage attributes the imbalance to popular memory, not to their own wishes.</p><p><strong>Option D is incorrect</strong> because paragraph 2 clearly attributes the first clinical trial to Florey and Chain, not to Fleming. This is a direct misreading of the passage.</p>"
+        }
+    ]
+}
